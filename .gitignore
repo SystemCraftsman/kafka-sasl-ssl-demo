@@ -1,0 +1,7 @@
+.vscode
+kafka*
+data*
+ca-*
+cert-*
+.DS_Store
+._.DS_Store
